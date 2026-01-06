@@ -17,6 +17,8 @@ PACKAGES=(
   boxes
   curl
   figlet
+  fx
+  fzf
   git
   jhead
   jq
